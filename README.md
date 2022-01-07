@@ -9,24 +9,47 @@ Performing analysis on Kickstarter data to uncover trends.
 
 ## Overview of Project
 
-### Purpose
+Background and purpose
+What is the background?
+      Louise lately achieved the fundraising campaign for her play, Fever and would like to know how other campaigns implement in comparison.
+What is the purpose?
+    Louise exactly wants to know how different campaigns fared in relation to their launch dates and funding goals, working with the data I append when Louise planned her goal, I will report to her the best month to launch her campaign and how to choose the most successful goals.
+##Analysis and Challenges
+Analysis of outcomes based on launch date
+  It was performed using the pivot tables in MS Excel. Here is the screenshots of pivot chart and the final pivot table to visualize the data.
+ ![image](https://user-images.githubusercontent.com/77947860/148615528-99e1d4f2-3e80-499b-b63c-4831e2695ecb.png)
 
-## Analysis and Challenges
 
-### Analysis of Outcomes Based on Launch Date
+Analysis of outcome based on goals
+  It depends on deliberately advanced formulas such as CountIFS, logical operators, and good excel modeling skills. Here is the screenshots of the final pivot chart and table.
+ 
+ ![image](https://user-images.githubusercontent.com/77947860/148615600-0cbc9e61-a45b-4f3e-85c0-8b3107270e12.png)
 
-### Analysis of Outcomes Based on Goals
+![image](https://user-images.githubusercontent.com/77947860/148615636-86ee0b5c-2825-48da-8b94-9a4530fdd9e4.png)
 
-### Challenges and Difficulties Encountered
 
-## Results
+Challenges and difficulties encountered
+   While they did provide some information, it did not dig as deeply as I had liked to be confident the analysis is complete to satisfy Louise’s curiosity. So, I had a problem with understand the data and some errors occurred due to this reason, but I overcome the challenge by debugging an error, applied IFERROR formula and incorporating its solution using filters, formatting, and freezing specific columns and rows. 
+## Results: 
+Two conclusions for outcome based on launch date
+1)	May is the most popular & best month to launch a campaign. It also yields the highest number of successful campaigns. In fact, both successful and failed campaigns are higher in May. However, January, June, July and October all had roughly the same number of failed campaigns launched.
+2)	There are other influences driving success.
+![image](https://user-images.githubusercontent.com/77947860/148615697-b0a96752-e4b3-4a58-ba60-8ca860e7e5d0.png)
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
+ 
+## Conclusion for Outcome based on goals 
+    Success declines as goals increased. So, it’s clear that a campaign with higher goals is most likely to fail to meet them.
+    
+    ![image](https://user-images.githubusercontent.com/77947860/148615742-43126982-462d-49c6-915f-64c0d6a66cdf.png)
 
-- What can you conclude about the Outcomes based on Goals?
+ 
+## Limitations of this dataset?
+    There are various limitations for this dataset though there is enough detail information within the Kickstarter data to get the challenge done. The command for this deliverable 1 & 2 limited the analysis. For instance, there were specific directions on criteria to filter for pivot tables and charts, none of them required filtering by country nor recent years. Had such filters been included in the instructions, it would increase the readability and reliability of the data for the analysis.
 
-- What are some limitations of this dataset?
 
-- What are some other possible tables and/or graphs that we could create?
+##What are some other possible tables and/or graphs that we could create?
+   I tried further in this analysis and included some charts during module one roundup practice with statistics that would help understand all the campaign.
+
+
 
 
