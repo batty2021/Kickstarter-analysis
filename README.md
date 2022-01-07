@@ -1,11 +1,6 @@
-# Kickstarter-analysis
+# Kickstarter-analysis with Excel
 Performing analysis on Kickstarter data to uncover trends.
 
-![Teater_based_Outcome](Theater_Outcomes_VS_Launch.png)
-
-![Outcome_basedon_Goals](outcomes_VS_Goals.png)
-
-# Kickstarting with Excel
 
 ## Overview of Project
 
@@ -19,7 +14,10 @@ What is the purpose?
 ##Analysis and Challenges
 Analysis of outcomes based on launch date
   It was performed using the pivot tables in MS Excel. Here is the screenshots of pivot chart and the final pivot table to visualize the data.
- ![image](Theater_Outcomes_VS_Launch.png)
+![image](https://user-images.githubusercontent.com/77947860/148618163-de8c676e-6da9-45c8-919f-9e26ab83e570.png)
+
+
+![image](Theater_Outcomes_VS_Launch.png)
 
 
 Analysis of outcome based on goals
@@ -29,9 +27,14 @@ Analysis of outcome based on goals
 
 ![image](Outcomes_VS_Goals_cahrts)
 
+![image](https://user-images.githubusercontent.com/77947860/148618239-336fd010-ea10-49a7-a654-33ab141050e4.png)
+
+
 
 Challenges and difficulties encountered
-   While they did provide some information, it did not dig as deeply as I had liked to be confident the analysis is complete to satisfy Louise’s curiosity. So, I had a problem with understand the data and some errors occurred due to this reason, but I overcome the challenge by debugging an error, applied IFERROR formula and incorporating its solution using filters, formatting, and freezing specific columns and rows. 
+   While they did provide some information, it did not dig as deeply as I had liked to be confident the analysis is complete to satisfy Louise’s curiosity.
+   So, I had a problem with understand the data and some errors occurred due to this reason, but I overcome the challenge by debugging an error, applied IFERROR formula and incorporating its solution using filters, formatting, and freezing specific columns and rows. 
+
 ## Results: 
 Two conclusions for outcome based on launch date
 1)	May is the most popular & best month to launch a campaign. It also yields the highest number of successful campaigns. In fact, both successful and failed campaigns are higher in May. However, January, June, July and October all had roughly the same number of failed campaigns launched.
