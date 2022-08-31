@@ -4,7 +4,10 @@ Performing analysis on Kickstarter data to uncover trends.
 
 ## Overview ofthe Analysis:
 
- Louise lately achieved the fundraising campaign for her play, Fever and would like to know how other campaigns implement in comparison. so Louise exactly wants to know how different campaigns fared in relation to their launch dates and funding goals, working with the data I append when Louise planned her goal, I will report to her the best month to launch her campaign and how to choose the most successful goals.
+ Louise lately achieved the fundraising campaign for her play, Fever and would like to know how other campaigns implement in comparison. so Louise exactly wants to know how different campaigns fared in relation to their launch dates and funding goals, working with the data I append when Louise planned her goal, I will report to her the best month to launch her campaign and how to choose the most successful goals. by doing
+ - Advanced formulas and terminology
+ - Interactive charts and graphs with pivot charts
+ - Filters and conditionals formating
 
 ## Analysis and Challenges
 Analysis of outcomes based on launch date:
@@ -50,7 +53,4 @@ Two conclusions for outcome based on launch date
 
 ## What are some other possible tables and/or graphs that we could create?
    I tried further in this analysis and included some charts during module one roundup practice with statistics that would help understand all the campaign.
-
-
-
 
